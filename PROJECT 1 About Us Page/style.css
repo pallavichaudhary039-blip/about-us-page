@@ -1,0 +1,57 @@
+/* TYPE selector */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
+
+/* ID selector */
+#company-name {
+    font-size: 42px;
+    color: #38bdf8;
+}
+
+/* Header */
+header {
+    background-color: #020617;
+    color: #38bdf8;
+}
+
+/* Nav */
+nav {
+    background-color: #1e293b;
+}
+
+/* Nav links */
+nav a {
+    color: #38bdf8;
+    font-size: 18px;
+}
+
+/* Sections */
+section {
+    background-color: #020617;
+    border: 1px solid #1e293b;
+}
+contact {
+    background-color: #a2a3a9;
+    border: 1px solid #1e293b;
+    color: white;
+}
+
+/* Headings */
+h2 {
+    color: #22c55e;
+}
+
+/* Footer */
+footer {
+    background-color: #020617;
+    color: #38bdf8;
+}
+
+/* Address */
+address {
+    font-size: 14px;
+}
